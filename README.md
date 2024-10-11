@@ -16,7 +16,7 @@
 
 A passionate Software Engineer with over 5 years of experience in full-stack development and microservice architecture. I’ve contributed to impactful projects like Monarch Mart (multi-vendor e-commerce), Discount Chai (discount-sharing platform), and Simplify.art (art selling platform).<br><br>
 
-I’m currently working as a **Software Engineer** at [**Flarie**](https://play.google.com/store/apps/details?id=com.flarie.android), where I contribute to building studio, focusing on smooth experiences and integrating new features.
+I’m currently working as a **Software Engineer** at [**Flarie**](https://flarie.com/), where I contribute to building studio, focusing on smooth experiences and integrating new features.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
