@@ -36,6 +36,14 @@ As a passionate solo developer, I created Discount Chai to provide users with a 
 
 - **Tech Stack**: Node, Express, Socket.io, MongoDB, Redis, Next.js, React Query, React Native, Expo
 
+### [SobarGolpo: Bangla Podcast](https://play.google.com/store/apps/details?id=com.sobargolpo.app) _(Private)_
+
+SobarGolpo is Bangladesh’s first platform that allows users to freely share any kind of audio content in Bangla — from personal stories to podcasts, motivational talks, and more. With podcast channels, episode publishing, likes, comments, and personalized recommendations, it’s designed to empower voices across the country in a truly local and user-friendly mobile experience.
+
+I warmly invite you to try the app, share your stories, and most importantly, provide feedback to help improve this unique platform. Your input means a lot!
+
+- **Tech Stack**: NestJS, MongoDB, Redis, Expo, React Native, React Hook Form, React Native Paper, React Query
+
 ## 🏆 GitHub Trophies
 
 ![](https://github-profile-trophy.vercel.app/?username=souravahmed&theme=vue-dark&no-frame=false&no-bg=false&margin-w=4)
