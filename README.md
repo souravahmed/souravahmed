@@ -78,9 +78,10 @@ I warmly invite you to try the app, share your stories, and most importantly, pr
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=souravahmed&theme=aura_dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=souravahmed&theme=aura_dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=souravahmed&theme=aura_dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![Sourav's GitHub stats](https://github-readme-stats.vercel.app/api?username=souravahmed&show_icons=true&theme=dark)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=souravahmed&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=souravahmed&layout=compact&theme=dark)
+
 
 
 
